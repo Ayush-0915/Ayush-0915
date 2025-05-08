@@ -1,50 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ayush singh</h1>
-<h3 align="center">🌱 Currently learning Artificial Intelligence & Machine Learning
-👯 Looking to collaborate on impactful & challenging projects</h3>
+<h1 align="center">Hi, I'm Ayush ✨</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **Web Development | DSA | Python | Open Source**
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python**
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Ayush-0915?tab=repositories)
-- 📫 How to reach me: **ayush.contact915@gmail.com**
-- ⚡ Fun fact: *I love late-night coding with lo-fi beats ☕🎧*
+<p align="center">
+  🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
+  🌱 Currently learning <strong>Artificial Intelligence & Machine Learning</strong> <br>
+  👯 Looking to collaborate on impactful & challenging projects <br>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 💻 Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🌐 Reach Me:
+<p>
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ayush.contact915@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=algolia" alt="GitHub Trophies" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=radical" />
-</p>
+### ⚡ Recent Activity:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-### 🚀 Let's Connect!
-<p>
-  <a href="https://https://www.linkedin.com/in/ayush-singh-a1967b331/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayushofficialuse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### ✨ Quote of the Day:
+> "Strive for progress, not perfection." 🚀
 
 ---
 
-*Thanks for visiting my profile! Drop a ⭐ on your favorite project 💻*
+### 📌 Popular Repositories:
+- [coding-resources](https://github.com/Ayush-0915/coding-resources) – 🛠️ Forked collection of great coding materials
+- [web-devlopment-](https://github.com/Ayush-0915/web-devlopment-) – 🌐 Simple web development projects
+- [alram-clock](https://github.com/Ayush-0915/alram-clock) – ⏰ A TypeScript-based alarm clock
+- [central-Dao-Token](https://github.com/Ayush-0915/central-Dao-Token) – 🪙 Token project in JavaScript
+- [python-basics](https://github.com/Ayush-0915/python-basics) – 🐍 Beginner-friendly Python projects
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my projects and drop a star if you like them!* 🌟
