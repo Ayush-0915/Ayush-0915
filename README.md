@@ -46,7 +46,6 @@
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 ---
 
 ### ✨ Quote of the Day:
