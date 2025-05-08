@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayush ✨</h1>
+<h1 align="center">Hi, I'm Ayush singh ✨</h1>
 
 <p align="center">
   🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
@@ -23,7 +23,7 @@
 
 ### 🌐 Reach Me:
 <p>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-singh-a1967b331//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ayush.contact915@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
