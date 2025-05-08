@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ayush singh ✨</h1>
+<h1 >Hi, I'm Ayush singh ✨</h1>
 
-<p align="center">
+<p>
   🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
   🌱 Currently learning <strong>Artificial Intelligence & Machine Learning</strong> <br>
   👯 Looking to collaborate on impactful & challenging projects <br>
