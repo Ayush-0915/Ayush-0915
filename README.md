@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate learner, developer, and tech enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Ayush singh</h1>
+<h3 align="center">🌱 Currently learning Artificial Intelligence & Machine Learning
+👯 Looking to collaborate on impactful & challenging projects</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -40,8 +41,8 @@
 
 ### 🚀 Let's Connect!
 <p>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayush.contact915@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/ayush-singh-a1967b331/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayushofficialuse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
