@@ -31,7 +31,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight" alt="GitHub Streak" />
