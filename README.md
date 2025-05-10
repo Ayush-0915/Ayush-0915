@@ -1,4 +1,7 @@
 <h1 >Hi, I'm Ayush singh ✨</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxeU1o9lJ9z4f2xC/giphy.gif" alt="Welcome GIF" width="300" />
+</p>
 
 <p>
   🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
