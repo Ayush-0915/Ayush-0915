@@ -1,8 +1,5 @@
 <h1 >Hi, I'm Ayush singh ✨</h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/Ng3Bv2S2zHkAAAAi/boy-waving-hi.gif" alt="Welcome GIF" width="250" />
-</p>
 
 <p>
   🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
@@ -11,6 +8,7 @@
 </p>
 
 ---
+![snake gif](https://github.com/Ayush-0915/Ayush-0915/blob/output/github-contribution-grid-snake.svg)
 
 ### 💻 Tech Stack:
 <p>
