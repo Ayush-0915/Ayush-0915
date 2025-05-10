@@ -54,11 +54,7 @@
 ---
 
 ### 📌 Popular Repositories:
-- [coding-resources](https://github.com/Ayush-0915/coding-resources) – 🛠️ Forked collection of great coding materials
-- [web-devlopment-](https://github.com/Ayush-0915/web-devlopment-) – 🌐 Simple web development projects
-- [alram-clock](https://github.com/Ayush-0915/alram-clock) – ⏰ A TypeScript-based alarm clock
-- [central-Dao-Token](https://github.com/Ayush-0915/central-Dao-Token) – 🪙 Token project in JavaScript
-- [python-basics](https://github.com/Ayush-0915/python-basics) – 🐍 Beginner-friendly Python projects
+
 
 ---
 
