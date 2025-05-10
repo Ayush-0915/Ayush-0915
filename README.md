@@ -60,6 +60,7 @@
 
 ### ⚡ Recent Activity:
 <!--START_SECTION:activity-->
+- 🚀 **Pushed** [**Personal-3D-Portfolio**](https://github.com/Ayush-0915/Personal-3D-Portfolio) - Added a new 3D animation feature.
 <!--END_SECTION:activity-->
 ---
 
