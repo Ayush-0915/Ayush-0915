@@ -64,6 +64,18 @@
 
 ### 📌 Popular Repositories:
 
+<p>
+  <a href="https://github.com/Ayush-0915/your-repo-1">
+    <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayush-0915/your-repo-2">
+    <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayush-0915/your-repo-3">
+    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
