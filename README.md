@@ -65,7 +65,7 @@
 ### 📌 Popular Repositories:
 
 <p>
-  <a href="https://github.com/Ayush-0915/your-repo-1">
+  <a href="https://github.com/Ayush-0915/Personal-3D-Portfolio">
     <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Ayush-0915/your-repo-2">
