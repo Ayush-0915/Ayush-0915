@@ -68,3 +68,7 @@
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my projects and drop a star if you like them!* 🌟
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-0915" alt="Profile Views" />
+</p>
