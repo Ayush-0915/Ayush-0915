@@ -8,7 +8,8 @@
 </p>
 
 ---
-![snake gif](https://github.com/Ayush-0915/Ayush-0915/blob/output/github-contribution-grid-snake.svg)
+<img src="https://img.shields.io/github/followers/Ayush-0915?label=Follow&style=social" />
+<img src="https://img.shields.io/github/stars/Ayush-0915?style=social" />
 
 ### 💻 Tech Stack:
 <p>
