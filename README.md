@@ -8,8 +8,6 @@
 </p>
 
 ---
-<img src="https://img.shields.io/github/followers/Ayush-0915?label=Follow&style=social" />
-<img src="https://img.shields.io/github/stars/Ayush-0915?style=social" />
 
 ### 💻 Tech Stack:
 <p>
@@ -87,3 +85,8 @@
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-0915" alt="Profile Views" />
 </p>
+
+---
+<img src="https://img.shields.io/github/followers/Ayush-0915?label=Follow&style=social" />
+<img src="https://img.shields.io/github/stars/Ayush-0915?style=social" />
+
