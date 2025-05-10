@@ -10,9 +10,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github.com/Ayush-0915/Ayush-0915/blob/main/assets/logo.png" width="150" alt="Ayush Singh Logo" />
-</p>
 
 ### 💻 Tech Stack:
 <p>
