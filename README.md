@@ -1,5 +1,7 @@
 <h1 >Hi, I'm Ayush singh ✨</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=380&height=45">
+</p>
 
 <p>
   🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
