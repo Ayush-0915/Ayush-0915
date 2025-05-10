@@ -1,6 +1,7 @@
 <h1 >Hi, I'm Ayush singh ✨</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxeU1o9lJ9z4f2xC/giphy.gif" alt="Welcome GIF" width="300" />
+  <img src="https://media.tenor.com/Ng3Bv2S2zHkAAAAi/boy-waving-hi.gif" alt="Welcome GIF" width="250" />
 </p>
 
 <p>
