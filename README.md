@@ -53,7 +53,8 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=algolia" alt="GitHub Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&langs_count=8&hide=html&cache_seconds=1800" alt="Top Languages" />
+
 </p>
 
 ---
