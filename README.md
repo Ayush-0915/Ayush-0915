@@ -1,99 +1,91 @@
-<h1 >Hi, I'm Ayush singh ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=380&height=45">
-</p>
+## Hi there 👋
 
-<p>
-  🧠 B.Tech student passionate about <strong>AI & ML</strong> <br>
-  🌱 Currently learning <strong>Artificial Intelligence & Machine Learning</strong> <br>
-  👯 Looking to collaborate on impactful & challenging projects <br>
-</p>
+# 💫 About Me:
+I am Ayush Singh , an aspiring researcher and developer with a strong focus on Artificial Intelligence, Machine Learning, and Deep Learning. My work is centered on creating practical, impactful solutions by combining research with real-world applications.
 
----
+🔹 Experienced in building AI/ML systems 
 
-### 💻 Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+🔹 Skilled in data analysis, model development & model fine tuning
 
----
-### 🛠 Tools:
-<p>
-  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+🔹 Passionate about research-driven innovation and contributing to open-source communities
 
-</p>
-
----
-
-### 🌐 Reach Me:
-<p>
-  <a href="https://www.linkedin.com/in/ayush-singh-a1967b331//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ayush.contact915@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=algolia" alt="GitHub Trophies" />
-  <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&langs_count=8&hide=html&cache_seconds=1800" alt="Top Languages" />
-
-</p>
-
----
-
-### ⚡ Recent Activity:
-<!--START_SECTION:activity-->
-- 🚀 **Pushed** [**Personal-3D-Portfolio**](https://github.com/Ayush-0915/Personal-3D-Portfolio) - Added a new 3D animation feature.
-<!--END_SECTION:activity-->
----
-
-### ✨ Quote of the Day:
-> "Strive for progress, not perfection." 🚀
-
----
-
-### 📌 Popular Repositories:
-
-<p>
-  <a href="https://github.com/Ayush-0915/Personal-3D-Portfolio">
-    <img src="https://img.shields.io/badge/Repo%201-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ayush-0915/CentralDaoToken">
-    <img src="https://img.shields.io/badge/Repo%202-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ayush-0915/Test">
-    <img src="https://img.shields.io/badge/Repo%203-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+📌 Open to collaborations in AI research, ML projects, and applied data-driven systems.
 
 
----
+## 🌐 Connect Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
 
-⭐ *Thanks for visiting! Feel free to check out my projects and drop a star if you like them!* 🌟
+## 🚀 Tech Stack
 
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-0915" alt="Profile Views" />
-</p>
+### 🧑‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3C1E8E?style=flat)
+![NLTK](https://img.shields.io/badge/NLTK-76B900?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### 📊 Data Science & Visualization Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat)
+
+### ⚡ Git
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+
+#### 📊 Visualization
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=wandb&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
+
+#### 💻 Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+### Tools
+![LangFlow](https://img.shields.io/badge/LangFlow-000000?style=flat)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Raghav0079&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Raghav0079&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav0079&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Raghav0079&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<img src="https://img.shields.io/github/followers/Ayush-0915?label=Follow&style=social" />
-<img src="https://img.shields.io/github/stars/Ayush-0915?style=social" />
-
+[![](https://visitcount.itsvg.in/api?id=Raghav0079&icon=0&color=0)](https://visitcount.itsvg.in)
