@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am Ayush Singh , an aspiring researcher and developer with a strong focus on Artificial Intelligence, Machine Learning, and Deep Learning. My work is centered on creating practical, impactful solutions by combining research with real-world applications.
+I am Ayush Singh , an aspiring developer with a strong focus on Artificial Intelligence, Machine Learning, and Deep Learning. My work is centered on creating practical, impactful solutions by combining research with real-world applications.
 
 🔹 Experienced in building AI/ML systems 
 
