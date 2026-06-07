@@ -467,52 +467,48 @@ A machine learning classification system that evaluates vehicle acceptability us
 ```text
 COMPLETED ✅
 
-├── Python Programming
-├── SQL & Databases
-├── Data Analytics
-├── Data Visualization
-├── Machine Learning Fundamentals
-├── Classification Models
-├── Regression Models
-├── Clustering Algorithms
-├── Power BI Dashboards
-├── Streamlit Development
-└── Cloud Fundamentals
+├── Python Programming  — Core Python, OOPs, File Handling
+├── SQL & Databases     — MySQL, Queries, Data Management
+├── Classical ML        — Decision Trees, KNN, Logistic Regression, Random Forest
+├── Data Science        — Pandas, NumPy, Matplotlib, Seaborn
+├── Data Analytics      — EDA, Data Cleaning, Feature Engineering
+├── Data Visualization  — Power BI, Dashboards, Business Insights
+├── Streamlit Apps      — Interactive AI & Analytics Applications
+├── Cloud Fundamentals  — Azure, OCI, AWS ML Foundation
+├── Git & GitHub        — Version Control, Collaboration
+└── AI Projects         — CareerNova, CreditWise, NEXUS Attend
 
 IN PROGRESS 🔄
 
-├── Generative AI
-├── Gemini API Development
-├── Prompt Engineering
-├── AI Product Development
-├── NEXUS AI Ecosystem
-└── LLM Integration
+├── Generative AI       — Gemini API, Prompt Engineering, LLM Integration
+├── NEXUS AI            — Personal AI Operating System
+├── Advanced ML         — Hyperparameter Tuning, Model Optimization
+├── Agentic AI          — LangChain, AutoGen, ReAct Agents
+└── LLM Engineering     — RAG Pipelines, Vector Databases
 
 UPCOMING ⏳
 
-├── Agentic AI
-├── LangChain
-├── RAG Systems
-├── Vector Databases
-├── Deep Learning
-├── Computer Vision
-├── MLOps
-└── Multi-Agent Systems
+├── Deep Learning       — CNNs, RNNs, Transformers
+├── Computer Vision     — OpenCV, Face Recognition, Object Detection
+├── NLP at Scale        — HuggingFace, Fine-Tuning LLMs
+├── Multi-Agent AI      — Autonomous Agent Systems
+├── MLOps              — Docker, CI/CD, Model Monitoring
+├── AI Deployment       — Scalable Production Systems
+└── Research & Open Source Contributions
 ```
-
 ---
 
 # 📚 Currently Learning
 
 <div align="center">
 
-| Area                | Topics                                 |
-| ------------------- | -------------------------------------- |
-| 🤖 Generative AI    | LLMs · Gemini API · Prompt Engineering |
-| 🧠 Machine Learning | Advanced Classification & Optimization |
-| 🔗 AI Systems       | Agentic AI · AI Workflows              |
-| 📊 Data Science     | Analytics · Dashboards · Visualization |
-| ☁️ Cloud Computing  | Azure · Oracle Cloud · AWS             |
+| Area | Topics |
+|---|---|
+| 🤖 **Generative AI** | Gemini API · Prompt Engineering · LLM Applications |
+| 🧠 **Deep Learning** | CNNs · RNNs · Transformers · Attention Mechanisms |
+| ⚡ **Agentic AI** | LangChain · AutoGen · ReAct Agents · Tool Calling |
+| 🔗 **LLM Engineering** | RAG Pipelines · Vector Databases · Fine-Tuning |
+| ☁️ **MLOps & Cloud** | Docker · CI/CD · Azure · OCI · Model Deployment |
 
 </div>
 
