@@ -125,11 +125,7 @@ class AyushSingh:
 
 ---
 
-# 🚀 Featured Projects
 
-> **5 Major Projects spanning AI • Machine Learning • Analytics • Computer Vision • Generative AI**
-
----
 # 🚀 Featured Projects
 
 > **5 projects spanning Generative AI · Machine Learning · Data Analytics · Computer Vision**
@@ -300,31 +296,6 @@ CreditWise Dashboard is a comprehensive financial analytics platform providing i
 
 ## 🚀 More Projects
 
-Continue with **Part 3** for:
-
-### 🎙️ NEXUS Attend
-
-Large Enterprise Project Card
-
-### 🚗 Car Evaluation System
-
-Premium ML Showcase Card
-
-### 🏆 Certifications & Achievements
-
-### 📊 GitHub Statistics
-
-(Updated Summary Cards)
-
-### 📈 Contribution Heatmap
-
-### 🐍 Contribution Snake
-
-### 🏆 GitHub Trophies
-
-### 🗺️ AI Learning Roadmap
-
-### 🤝 Connect Section
 
 ---
 ## 🎙️ 04. NEXUS Attend — AI Attendance Management System
@@ -481,11 +452,9 @@ A machine learning classification system that evaluates vehicle acceptability us
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
