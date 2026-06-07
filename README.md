@@ -1,20 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20Developer%20%E2%80%A2%20NEXUS%20AI%20Creator&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Generative%20AI%20Developer%20•%20Creator%20of%20NEXUS%20AI&descAlignY=55&descSize=16" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=850\&lines=Building+Production+AI+Systems+🧠;AI%2FML+%7C+Data+Science+%7C+Generative+AI;Creator+of+NEXUS+AI+⭐;Building+Intelligent+Products+for+the+Future)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&repeat=true\&width=750\&lines=Building+Production+AI+Systems+🧠;AI%2FML+%7C+Data+Science+%7C+Generative+AI;Creator+of+NEXUS+AI+⭐;Turning+Ideas+Into+Intelligent+Products;Future+ML+Engineer+%7C+Problem+Solver)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 AI/ML Engineer | Generative AI Developer | Data Science Enthusiast
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ayush-0915&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -22,56 +12,36 @@
 
 ---
 
-<img align="right" alt="AI Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```python
 class AyushSingh:
 
     def __init__(self):
-        self.name = "Ayush Singh"
-        self.role = "AI/ML Engineer & Generative AI Developer"
+        self.role = "AI/ML Engineer"
         self.university = "SAGE University, Indore"
         self.degree = "B.Tech Artificial Intelligence & Machine Learning"
         self.graduation = 2028
-        self.location = "Indore, India 🇮🇳"
 
-    @property
     def current_projects(self):
         return [
-            "🤖 NEXUS AI - Personal AI Operating System",
-            "🎓 CareerNova - AI Career Guidance Platform",
-            "💰 CreditWise - Loan Analytics Dashboard",
-            "🎙️ NEXUS Attend - Voice + Face Attendance System",
-            "🚗 Car Evaluation ML System"
+            "NEXUS AI",
+            "CareerNova",
+            "CreditWise Dashboard",
+            "NEXUS Attend",
+            "Car Evaluation System"
         ]
 
-    @property
-    def current_focus(self):
+    def interests(self):
         return [
-            "Generative AI",
             "Machine Learning",
-            "Agentic AI",
-            "Prompt Engineering",
+            "Generative AI",
             "Data Science",
-            "AI Product Development"
+            "Prompt Engineering",
+            "Agentic AI"
         ]
-
-    @property
-    def certifications(self):
-        return [
-            "Red Hat",
-            "AWS ML Foundation",
-            "Microsoft Azure AZ-900",
-            "Oracle",
-            "Cisco",
-            "Eduskills Virtual Internship"
-        ]
-
-    @property
-    def mission(self):
-        return "Build intelligent systems that solve real-world problems at scale."
 ```
 
 <br clear="right"/>
@@ -80,194 +50,132 @@ class AyushSingh:
 
 # 🛠️ Tech Arsenal
 
-<div align="center">
+### Programming Languages
 
-## Programming Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+### 🤖 Machine Learning
 
-## AI & Generative AI
+<p align="center">
 
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-00C2FF?style=for-the-badge)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+### 🧠 AI & Generative AI
 
-## Data Science & Analytics
+<p align="center">
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-00C2FF?style=for-the-badge"/>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+### 📊 Data Science & Analytics
 
-## ☁️ Cloud Platforms
+<p align="center">
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-# 📊 Core Expertise
+### ⚙️ Tools & Technologies
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### Machine Learning
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-* Classification
-* Regression
-* Clustering
-* Feature Engineering
-* Model Evaluation
-* Cross Validation
-* Data Preprocessing
-* Model Optimization
+</p>
 
-</td>
+---
 
-<td width="50%">
+### ☁️ Cloud Platforms
 
-### Data Analytics
+<p align="center">
 
-* Exploratory Data Analysis
-* Data Cleaning
-* Statistical Analysis
-* Data Visualization
-* Feature Selection
-* Dashboard Development
-* Business Intelligence
-* Predictive Analytics
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-> **5 Major Projects** spanning AI · Machine Learning · Generative AI · Analytics · Computer Vision
+> **5 Major Projects spanning AI • Machine Learning • Analytics • Computer Vision • Generative AI**
 
 ---
-
-➡️ Continue with **Part 2** for:
-
-* 🤖 NEXUS AI (Premium Project Card)
-* 🎓 CareerNova (Premium Project Card)
-* 💰 CreditWise Dashboard (Premium Project Card)
-
-exactly in the same enterprise-style format as the README screenshot.
 # 🚀 Featured Projects
+
+> **5 projects spanning Generative AI · Machine Learning · Data Analytics · Computer Vision**
 
 ---
 
 ## 🤖 01. NEXUS AI — Personal AI Operating System
 
-> `Generative AI · AI Assistant · Productivity AI · Future Agentic AI`
+> `Generative AI · Personal Assistant · Productivity AI · Future Agentic AI`
 
-A next-generation AI Operating System designed to function as a personal digital brain. NEXUS AI combines intelligent conversations, productivity tools, contextual memory, and future-ready AI automation into a unified platform.
+A next-generation AI operating system designed to function as a personal digital brain. NEXUS AI combines conversational intelligence, productivity workflows, contextual memory, and AI-powered assistance into a unified ecosystem.
 
 <table>
 <tr>
 <td width="55%">
 
-### Production Highlights
+### 🚀 Production Highlights
 
 * ✅ Conversational AI Assistant
-* ✅ Context-Aware Responses
-* ✅ Modular AI Architecture
-* ✅ Productivity Workflow Integration
-* ✅ Intelligent Memory System
 * ✅ Personalized User Experience
-* ✅ Extensible AI Framework
+* ✅ Context-Aware Responses
+* ✅ Intelligent Memory Architecture
+* ✅ Productivity Workflow Integration
 * ✅ Future Multi-Agent Support
+* ✅ Scalable AI Framework
+* ✅ Extensible Modular Design
 
 </td>
 
 <td width="45%">
 
-### System Overview
+### 📊 System Overview
 
 | Component          | Status |
 | ------------------ | ------ |
 | AI Assistant       | ✅      |
-| Memory Layer       | ✅      |
+| Context Engine     | ✅      |
 | Productivity Tools | ✅      |
-| Modular Design     | ✅      |
+| Memory Layer       | ✅      |
 
 **Category:** Personal AI Operating System
 
-**Focus:** Productivity & Intelligence
+**Focus:** Productivity + Intelligence
 
-**Stack:** `Python`
-`Generative AI`
-`Gemini API`
-`Streamlit`
-`GitHub`
+**Stack:** `Python` `Gemini API`
+`Streamlit` `AI Systems`
 
 </td>
 </tr>
@@ -275,34 +183,36 @@ A next-generation AI Operating System designed to function as a personal digital
 
 [![GitHub](https://img.shields.io/badge/GitHub-NEXUS_AI-181717?style=for-the-badge\&logo=github)](https://github.com/Ayush-0915/NEXUS-AI)
 
+<!-- Add Screenshot Here -->
+
 ---
 
 ## 🎓 02. CareerNova — AI Career Guidance Platform
 
 > `Generative AI · Resume Analysis · Career Intelligence · Production`
 
-An AI-powered career guidance platform that helps students and professionals discover opportunities, analyze resumes, identify skill gaps, and receive personalized career recommendations using Generative AI.
+CareerNova helps students and professionals discover career opportunities, analyze resumes, identify skill gaps, and receive personalized career recommendations using Generative AI.
 
 <table>
 <tr>
 <td width="55%">
 
-### Production Highlights
+### 🚀 Production Highlights
 
-* ✅ AI-Powered Resume Analysis
-* ✅ Personalized Career Recommendations
-* ✅ Skill Gap Identification
-* ✅ Career Growth Roadmaps
-* ✅ Internship Guidance System
-* ✅ Real-Time AI Career Advice
-* ✅ Modern User Interface
+* ✅ AI Resume Analysis
+* ✅ Career Recommendation Engine
+* ✅ Skill Gap Detection
+* ✅ Personalized Learning Roadmaps
+* ✅ Internship Guidance
+* ✅ Career Growth Planning
+* ✅ Modern Responsive UI
 * ✅ Gemini API Integration
 
 </td>
 
 <td width="45%">
 
-### Platform Metrics
+### 📊 Platform Overview
 
 | Feature           | Status |
 | ----------------- | ------ |
@@ -311,7 +221,7 @@ An AI-powered career guidance platform that helps students and professionals dis
 | Skill Mapping     | ✅      |
 | Roadmap Generator | ✅      |
 
-**Target Audience:** Students & Freshers
+**Target Users:** Students & Freshers
 
 **AI Engine:** Gemini API
 
@@ -327,63 +237,70 @@ An AI-powered career guidance platform that helps students and professionals dis
 
 [![GitHub](https://img.shields.io/badge/GitHub-CareerNova-181717?style=for-the-badge\&logo=github)](https://github.com/Ayush-0915/CareerNova)
 
+<!-- Add Live Demo Button Here -->
+
+<!-- Add Screenshot Here -->
+
 ---
 
 ## 💰 03. CreditWise Dashboard — Loan Analytics Platform
 
-> `Finance Analytics · Machine Learning · Business Intelligence · Data Science`
+> `Finance Analytics · Data Science · Business Intelligence · Machine Learning`
 
-CreditWise Dashboard is a comprehensive financial analytics platform designed to provide insights into loan performance, borrower behavior, risk assessment, and lending trends through interactive dashboards and predictive analytics.
+CreditWise Dashboard is a comprehensive financial analytics platform providing insights into loan performance, borrower behavior, lending risk, and business intelligence through interactive dashboards.
 
 <table>
 <tr>
 <td width="55%">
 
-### Production Highlights
+### 🚀 Production Highlights
 
-* ✅ Interactive Loan Analytics Dashboard
+* ✅ Interactive Loan Dashboard
 * ✅ KPI Monitoring System
 * ✅ Risk Assessment Insights
-* ✅ Borrower Performance Analysis
-* ✅ Data-Driven Decision Support
-* ✅ Business Intelligence Reporting
-* ✅ Dynamic Visualizations
+* ✅ Borrower Analytics
 * ✅ Financial Trend Analysis
+* ✅ Dynamic Visualizations
+* ✅ Business Intelligence Reports
+* ✅ Data-Driven Decision Support
 
 </td>
 
 <td width="45%">
 
-### Dashboard Metrics
+### 📊 Dashboard Metrics
 
 | Metric         | Available |
 | -------------- | --------- |
 | Loan Analytics | ✅         |
-| Risk Analysis  | ✅         |
 | KPI Dashboard  | ✅         |
+| Risk Analysis  | ✅         |
 | Trend Reports  | ✅         |
 
 **Domain:** Financial Analytics
 
-**Objective:** Smarter Lending Decisions
+**Goal:** Smarter Lending Decisions
 
 **Stack:** `Power BI`
 `Python`
 `Pandas`
-`Data Visualization`
-`Analytics`
+`Data Analytics`
 
 </td>
 </tr>
 </table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-CreditWise_Dashboard-181717?style=for-the-badge\&logo=github)](https://github.com/Ayush-0915/credit-wise-loan-dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-CreditWise-181717?style=for-the-badge\&logo=github)](https://github.com/Ayush-0915/credit-wise-loan-dashboard)
+
+<!-- Add Live Demo Button Here -->
+
+<!-- Add Screenshot Here -->
 
 ---
 
-# 🚀 More Featured Projects
+## 🚀 More Projects
 
-> Continue with Part 3 for:
+Continue with **Part 3** for:
 
 ### 🎙️ NEXUS Attend
 
@@ -391,11 +308,13 @@ Large Enterprise Project Card
 
 ### 🚗 Car Evaluation System
 
-Large Enterprise ML Project Card
+Premium ML Showcase Card
 
 ### 🏆 Certifications & Achievements
 
 ### 📊 GitHub Statistics
+
+(Updated Summary Cards)
 
 ### 📈 Contribution Heatmap
 
@@ -405,39 +324,41 @@ Large Enterprise ML Project Card
 
 ### 🗺️ AI Learning Roadmap
 
-### 🤝 Connect With Me
+### 🤝 Connect Section
+
+---
 ## 🎙️ 04. NEXUS Attend — AI Attendance Management System
 
 > `Computer Vision · Voice Recognition · Attendance Automation · AI`
 
-NEXUS Attend is an intelligent attendance management system that combines voice authentication and facial recognition technologies to create a seamless, secure, and automated attendance experience for educational institutions.
+An intelligent attendance management platform that combines voice authentication and facial recognition technologies to automate attendance tracking while ensuring accuracy and security.
 
 <table>
 <tr>
 <td width="55%">
 
-### Production Highlights
+### 🚀 Production Highlights
 
 * ✅ Voice Recognition Authentication
 * ✅ Face Recognition Verification
-* ✅ Automated Attendance Tracking
-* ✅ Student Identity Validation
+* ✅ Automated Attendance Logging
+* ✅ AI-Powered Student Verification
 * ✅ Attendance Analytics Dashboard
-* ✅ Real-Time Attendance Monitoring
-* ✅ AI-Powered Verification System
+* ✅ Real-Time Monitoring
+* ✅ Secure Identity Validation
 * ✅ Educational Institution Ready
 
 </td>
 
 <td width="45%">
 
-### System Capabilities
+### 📊 System Overview
 
 | Feature              | Status |
 | -------------------- | ------ |
 | Face Recognition     | ✅      |
 | Voice Authentication | ✅      |
-| Attendance Logging   | ✅      |
+| Attendance Logs      | ✅      |
 | Analytics Dashboard  | ✅      |
 
 **Industry:** Education Technology
@@ -462,13 +383,13 @@ NEXUS Attend is an intelligent attendance management system that combines voice 
 
 > `Machine Learning · Classification · Data Science · Predictive Analytics`
 
-A machine learning classification system designed to evaluate vehicle acceptability using multiple automotive attributes. The project demonstrates end-to-end machine learning workflows including preprocessing, model training, evaluation, and prediction.
+A machine learning classification system that evaluates vehicle acceptability using multiple automotive attributes. The project demonstrates a complete ML workflow from preprocessing and feature engineering to model evaluation and prediction.
 
 <table>
 <tr>
 <td width="55%">
 
-### Production Highlights
+### 🚀 Production Highlights
 
 * ✅ Multi-Class Classification
 * ✅ Data Cleaning & Preprocessing
@@ -483,16 +404,21 @@ A machine learning classification system designed to evaluate vehicle acceptabil
 
 <td width="45%">
 
-### ML Project Metrics
+### 📊 Dataset Details
 
-| Category     | Value            |
-| ------------ | ---------------- |
-| Problem Type | Classification   |
-| Dataset      | Car Evaluation   |
-| Evaluation   | Accuracy Metrics |
-| ML Pipeline  | Complete         |
+| Property     | Value          |
+| ------------ | -------------- |
+| Problem Type | Classification |
+| Dataset      | Car Evaluation |
+| Features     | 6              |
+| Classes      | 4              |
 
-**Objective:** Vehicle Acceptability Prediction
+**Algorithms Used**
+
+* Decision Tree
+* Random Forest
+* KNN
+* Logistic Regression
 
 **Stack:** `Python`
 `Pandas`
@@ -512,40 +438,33 @@ A machine learning classification system designed to evaluate vehicle acceptabil
 
 <div align="center">
 
-| Certification            | Provider            |
-| ------------------------ | ------------------- |
-| 🏅 Red Hat Certification | Red Hat             |
-| ☁️ AWS ML Foundation     | Amazon Web Services |
-| 🔷 Azure AZ-900          | Microsoft           |
-| 🗄️ Oracle Certification | Oracle              |
-| 🌐 Cisco Certification   | Cisco               |
-| 💼 Virtual Internship    | Eduskills           |
+| Certification                      | Provider  |
+| ---------------------------------- | --------- |
+| 🏅 Red Hat Certification           | Red Hat   |
+| ☁️ AWS Machine Learning Foundation | AWS       |
+| 🔷 Microsoft Azure AZ-900          | Microsoft |
+| 🗄️ Oracle Certification           | Oracle    |
+| 🌐 Cisco Certification             | Cisco     |
+| 💼 Eduskills Virtual Internship    | Eduskills |
 
 </div>
-
----
-
-# 🎯 Professional Highlights
-
-* 🚀 Creator of **NEXUS AI**
-* 🤖 Building AI-powered real-world applications
-* 📊 Strong foundation in Machine Learning & Data Analytics
-* 🧠 Exploring Generative AI & LLM Integration
-* ☁️ Certified across multiple cloud ecosystems
-* 🎓 AI & ML Undergraduate at SAGE University
-* 💡 Passionate about solving problems using AI
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-0915&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-0915&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-0915&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-0915&theme=tokyonight">
 </p>
 
 ---
@@ -555,16 +474,6 @@ A machine learning classification system designed to evaluate vehicle acceptabil
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-0915&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
@@ -580,23 +489,32 @@ A machine learning classification system designed to evaluate vehicle acceptabil
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
 # 🗺️ AI Learning Roadmap
 
 ```text
 COMPLETED ✅
 
 ├── Python Programming
-├── SQL & Database Fundamentals
+├── SQL & Databases
 ├── Data Analytics
 ├── Data Visualization
 ├── Machine Learning Fundamentals
-├── Classification Algorithms
-├── Regression Algorithms
+├── Classification Models
+├── Regression Models
 ├── Clustering Algorithms
-├── Streamlit Development
 ├── Power BI Dashboards
-├── Cloud Fundamentals
-└── Git & GitHub
+├── Streamlit Development
+└── Cloud Fundamentals
 
 IN PROGRESS 🔄
 
@@ -605,7 +523,6 @@ IN PROGRESS 🔄
 ├── Prompt Engineering
 ├── AI Product Development
 ├── NEXUS AI Ecosystem
-├── Advanced Machine Learning
 └── LLM Integration
 
 UPCOMING ⏳
@@ -617,7 +534,6 @@ UPCOMING ⏳
 ├── Deep Learning
 ├── Computer Vision
 ├── MLOps
-├── AI Agents
 └── Multi-Agent Systems
 ```
 
@@ -657,19 +573,13 @@ UPCOMING ⏳
 
 ---
 
-# 💭 Quote That Drives Me
-
 <div align="center">
 
-### *"Artificial Intelligence is not about replacing humans, it's about amplifying human potential."*
+### 💭 Favorite Quote
 
-⭐ **If you find my projects useful, consider giving them a star!**
+*"The future belongs to those who build it."*
 
-</div>
-
----
-
-<div align="center">
+⭐ If you find my projects useful, consider giving them a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
