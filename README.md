@@ -450,13 +450,7 @@ A machine learning classification system that evaluates vehicle acceptability us
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-0915&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
