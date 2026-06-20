@@ -158,7 +158,10 @@ class AyushSingh:
 
 ---
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-0915&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 # 🐍 Contribution Snake
 
