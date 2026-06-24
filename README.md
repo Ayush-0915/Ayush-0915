@@ -63,13 +63,16 @@ class AIMLEngineer:
 **`[ Languages ]`**
 <br/>
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![SQL](https://img.shields.io/badge/SQL%20%28MySQL%29-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=00d4ff)
 
 <br/>
 
 **`[ Machine Learning ]`**
 <br/>
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=0077ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=0077ff)
 ![Classification](https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&logoColor=0077ff)
 ![Regression](https://img.shields.io/badge/Regression-0d1117?style=for-the-badge&logoColor=0077ff)
 ![Clustering](https://img.shields.io/badge/Clustering-0d1117?style=for-the-badge&logoColor=0077ff)
@@ -97,6 +100,7 @@ class AIMLEngineer:
 **`[ AI & GenAI ]`**
 <br/>
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=00ffcc)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ffcc)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logoColor=00ffcc)
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logoColor=00ffcc)
 ![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logoColor=00ffcc)
@@ -119,6 +123,14 @@ class AIMLEngineer:
 
 <br/>
 
+**`[ Databases ]`**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=93c5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=93c5fd)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=93c5fd)
+
+<br/>
+
 **`[ Cloud Platforms ]`**
 <br/>
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=fbbf24)
@@ -134,6 +146,7 @@ class AIMLEngineer:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=6ee7b7)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=6ee7b7)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=6ee7b7)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6ee7b7)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logoColor=6ee7b7)
 
 <br/>
