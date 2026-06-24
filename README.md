@@ -188,10 +188,10 @@ class AIMLEngineer:
 
 <div align="center">
 
-[![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
+[![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/b488753e-db9f-48a1-a14d-51566a11f820/public_url)
 [![OCI AI](https://img.shields.io/badge/OCI%202025%20AI%20FOUNDATIONS%20ASSOCIATE-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com)
 [![GCP GenAI](https://img.shields.io/badge/GCP%20GENERATIVE%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com)
-[![AWS ML](https://img.shields.io/badge/AWS%20ML%20FOUNDATIONS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com)
+[![AWS ML](https://img.shields.io/badge/AWS%20ML%20FOUNDATIONS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/4744bc08-8705-4d76-bb49-d470d753feac/public_url)
 
 <br/><br/>
 
