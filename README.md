@@ -63,23 +63,44 @@ class AIMLEngineer:
 **`[ Languages ]`**
 <br/>
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=00d4ff)
+![SQL](https://img.shields.io/badge/SQL%20%28MySQL%29-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
 
 <br/>
 
-**`[ Machine Learning · AI ]`**
+**`[ Machine Learning ]`**
 <br/>
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=0077ff)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=0077ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=0077ff)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=0077ff)
+![Classification](https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&logoColor=0077ff)
+![Regression](https://img.shields.io/badge/Regression-0d1117?style=for-the-badge&logoColor=0077ff)
+![Clustering](https://img.shields.io/badge/Clustering-0d1117?style=for-the-badge&logoColor=0077ff)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-0d1117?style=for-the-badge&logoColor=0077ff)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-0d1117?style=for-the-badge&logoColor=0077ff)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0d1117?style=for-the-badge&logoColor=0077ff)
+![KNN](https://img.shields.io/badge/KNN-0d1117?style=for-the-badge&logoColor=0077ff)
+![K--Means](https://img.shields.io/badge/K--Means-0d1117?style=for-the-badge&logoColor=0077ff)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=for-the-badge&logoColor=0077ff)
+![Cross Validation](https://img.shields.io/badge/Cross--Validation-0d1117?style=for-the-badge&logoColor=0077ff)
 
 <br/>
 
-**`[ LLM & Local AI ]`**
+**`[ Libraries & Frameworks ]`**
 <br/>
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=38bdf8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38bdf8)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=38bdf8)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logoColor=38bdf8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=38bdf8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
+
+<br/>
+
+**`[ AI & GenAI ]`**
+<br/>
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=00ffcc)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logoColor=00ffcc)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logoColor=00ffcc)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logoColor=00ffcc)
+![Voice AI](https://img.shields.io/badge/Voice%20AI-0d1117?style=for-the-badge&logoColor=00ffcc)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logoColor=00ffcc)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=00ffcc)
 ![faster--whisper](https://img.shields.io/badge/faster--whisper-0d1117?style=for-the-badge&logoColor=00ffcc)
@@ -87,29 +108,42 @@ class AIMLEngineer:
 
 <br/>
 
-**`[ Data & Visualization ]`**
+**`[ Data Analytics & BI ]`**
 <br/>
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=38bdf8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38bdf8)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=38bdf8)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=38bdf8)
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=38bdf8)
+![EDA](https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&logoColor=a78bfa)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0d1117?style=for-the-badge&logoColor=a78bfa)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-0d1117?style=for-the-badge&logoColor=a78bfa)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=a78bfa)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=a78bfa)
 
 <br/>
 
 **`[ Cloud Platforms ]`**
 <br/>
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=fbbf24)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=fbbf24)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=fbbf24)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud%20OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=fbbf24)
+![GCP](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
 
 <br/>
 
-**`[ Dev Tools ]`**
+**`[ Developer Tools ]`**
 <br/>
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=6ee7b7)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6ee7b7)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=6ee7b7)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=6ee7b7)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=6ee7b7)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logoColor=6ee7b7)
+
+<br/>
+
+**`[ Engineering Skills ]`**
+<br/>
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0d1117?style=for-the-badge&logoColor=f9a8d4)
+![Async Programming](https://img.shields.io/badge/Async%20Programming-0d1117?style=for-the-badge&logoColor=f9a8d4)
+![Context Management](https://img.shields.io/badge/Context%20Management-0d1117?style=for-the-badge&logoColor=f9a8d4)
+![Repository Analysis](https://img.shields.io/badge/Repository%20Analysis-0d1117?style=for-the-badge&logoColor=f9a8d4)
 
 </div>
 
