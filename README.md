@@ -1,258 +1,192 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Singh&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20•%20Generative%20AI%20Developer%20•%20Creator%20of%20NEXUS%20AI&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a1a,60:0d1f3c,100:00d4ff&height=220&section=header&text=Ayush%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Builder%20%E2%80%94%20NEXUS%20AI%20Creator&descAlignY=60&descColor=00d4ff&animation=fadeIn&fontAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=850\&lines=Building+Production+AI+Systems+🧠;AI%2FML+%7C+Data+Science+%7C+Generative+AI;Creator+of+NEXUS+AI+⭐;Building+Intelligent+Products+for+the+Future)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=Building+NEXUS+AI+%E2%80%94+A+JARVIS-style+local+AI+OS+%F0%9F%A7%A0;LLMs+%C2%B7+ML+Pipelines+%C2%B7+GenAI+%C2%B7+Data+Science;From+model+to+production+%E2%80%94+one+module+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ayush-0915&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-0915ap)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-0915)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
----
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## ⚡ SYSTEM.INIT()
 
-# 👨‍💻 About Me
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=0077ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" />
 
 ```python
-class AyushSingh:
-
+class AIMLEngineer:
     def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.university = "SAGE University, Indore"
-        self.degree = "B.Tech Artificial Intelligence & Machine Learning"
-        self.graduation = 2028
+        self.identity = {
+            "name": "Ayush Singh",
+            "designation": "AI / ML Engineering Student",
+            "education": "B.Tech (AI & ML) @ SAGE University, Indore",
+            "batch": "2024 - 2028",
+            "seeking": "Internships in ML · Data Science · AI · Analytics",
+            "certifications": ["Azure AZ-900", "OCI AI Foundations", "GCP GenAI"]
+        }
 
-    def current_projects(self):
-        return [
-            "NEXUS AI",
-            "CareerNova",
-            "CreditWise Dashboard",
-            "NEXUS Attend",
-            "Car Evaluation System"
+        self.flagship_project = {
+            "name": "NEXUS AI",
+            "type": "Local-first JARVIS-style Personal AI OS",
+            "modules": 13,
+            "stack": ["Ollama", "faster-whisper", "Piper", "ChromaDB",
+                      "Gemini API", "FastAPI", "Python"],
+            "aesthetic": "Cyberpunk · Mission Control"
+        }
+
+        self.current_focus = [
+            "NEXUS AI — voice, memory, vision & system automation",
+            "Local LLM routing with Ollama + multi-model orchestration",
+            "ML pipelines from training to Streamlit deployment",
+            "Data analytics & GenAI integration"
         ]
 
-    def interests(self):
-        return [
-            "Machine Learning",
-            "Generative AI",
-            "Data Science",
-            "Prompt Engineering",
-            "Agentic AI"
-        ]
+    def motto(self):
+        return "Build fast. Ship real. Keep it local."
 ```
 
 <br clear="right"/>
 
----
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-# 🛠️ Tech Arsenal
-
-### Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
----
-
-### 🤖 Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🧠 AI & Generative AI
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-00C2FF?style=for-the-badge"/>
-
-</p>
-
----
-
-### 📊 Data Science & Analytics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-</p>
-
----
-
-### ⚙️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
----
-
-### ☁️ Cloud Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-</p>
-
----
-
-
-
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-0915&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-0915&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-0915&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-0915&theme=tokyonight">
-</p>
-
----
-
-# 📈 Contribution Heatmap
+## 🛠️ TECH STACK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-0915&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+**`[ Languages ]`**
+<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=00d4ff)
+
+<br/>
+
+**`[ Machine Learning · AI ]`**
+<br/>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=0077ff)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=0077ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=0077ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=0077ff)
+
+<br/>
+
+**`[ LLM & Local AI ]`**
+<br/>
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logoColor=00ffcc)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=00ffcc)
+![faster--whisper](https://img.shields.io/badge/faster--whisper-0d1117?style=for-the-badge&logoColor=00ffcc)
+![Piper TTS](https://img.shields.io/badge/Piper%20TTS-0d1117?style=for-the-badge&logoColor=00ffcc)
+
+<br/>
+
+**`[ Data & Visualization ]`**
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=38bdf8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38bdf8)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=38bdf8)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=38bdf8)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=38bdf8)
+
+<br/>
+
+**`[ Cloud Platforms ]`**
+<br/>
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=fbbf24)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=fbbf24)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
+
+<br/>
+
+**`[ Dev Tools ]`**
+<br/>
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=6ee7b7)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6ee7b7)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=6ee7b7)
 
 </div>
 
----
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Ayush-0915&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🚀 FEATURED PROJECTS
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🗺️ AI Learning Roadmap
-
-```text
-COMPLETED ✅
-
-├── Python Programming  — Core Python, OOPs, File Handling
-├── SQL & Databases     — MySQL, Queries, Data Management
-├── Classical ML        — Decision Trees, KNN, Logistic Regression, Random Forest
-├── Data Science        — Pandas, NumPy, Matplotlib, Seaborn
-├── Data Analytics      — EDA, Data Cleaning, Feature Engineering
-├── Data Visualization  — Power BI, Dashboards, Business Insights
-├── Streamlit Apps      — Interactive AI & Analytics Applications
-├── Cloud Fundamentals  — Azure, OCI, AWS ML Foundation
-├── Git & GitHub        — Version Control, Collaboration
-└── AI Projects         — CareerNova, CreditWise, NEXUS Attend
-
-IN PROGRESS 🔄
-
-├── Generative AI       — Gemini API, Prompt Engineering, LLM Integration
-├── NEXUS AI            — Personal AI Operating System
-├── Advanced ML         — Hyperparameter Tuning, Model Optimization
-├── Agentic AI          — LangChain, AutoGen, ReAct Agents
-└── LLM Engineering     — RAG Pipelines, Vector Databases
-
-UPCOMING ⏳
-
-├── Deep Learning       — CNNs, RNNs, Transformers
-├── Computer Vision     — OpenCV, Face Recognition, Object Detection
-├── NLP at Scale        — HuggingFace, Fine-Tuning LLMs
-├── Multi-Agent AI      — Autonomous Agent Systems
-├── MLOps              — Docker, CI/CD, Model Monitoring
-├── AI Deployment       — Scalable Production Systems
-└── Research & Open Source Contributions
 ```
----
+🧠 NEXUS AI  ·  Local-first Personal AI Operating System
+   Stack : Ollama · faster-whisper · Piper · ChromaDB · Gemini API · FastAPI
+   13 modules — voice control, memory engine, vision, file automation,
+   multi-model LLM routing, system automation, and more.
+   Status : Active Development  |  Aesthetic : Cyberpunk Mission Control
 
-# 📚 Currently Learning
+💳 CreditWise  ·  Loan Approval ML App
+   Stack : Python · Scikit-learn · Streamlit Cloud
+   End-to-end ML pipeline with live deployment on Streamlit Cloud.
+   Status : Live ✅
 
-<div align="center">
+🌲 Car Evaluation Classifier
+   Stack : Python · Scikit-learn · Decision Tree
+   Multi-class classifier on the UCI Car Evaluation dataset.
+   Status : Complete ✅
+```
 
-| Area | Topics |
-|---|---|
-| 🤖 **Generative AI** | Gemini API · Prompt Engineering · LLM Applications |
-| 🧠 **Deep Learning** | CNNs · RNNs · Transformers · Attention Mechanisms |
-| ⚡ **Agentic AI** | LangChain · AutoGen · ReAct Agents · Tool Calling |
-| 🔗 **LLM Engineering** | RAG Pipelines · Vector Databases · Fine-Tuning |
-| ☁️ **MLOps & Cloud** | Docker · CI/CD · Azure · OCI · Model Deployment |
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C2FF?style=for-the-badge)](https://space-portfolio-dusky.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayush-singh-0915ap)
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushofficaluse@gmail.com)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ayushhsingh)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush--0915-181717?style=for-the-badge\&logo=github)](https://github.com/Ayush-0915)
-
-</div>
-
----
+## 🎖️ CERTIFICATIONS
 
 <div align="center">
 
-### 💭 Favorite Quote
+[![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
+[![OCI AI](https://img.shields.io/badge/OCI%20AI%20FOUNDATIONS-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com)
+[![GCP GenAI](https://img.shields.io/badge/GCP%20GENERATIVE%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com)
 
-*"The future belongs to those who build it."*
+<br/><br/>
 
-⭐ If you find my projects useful, consider giving them a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+![Student](https://img.shields.io/badge/B.Tech%20AI%20%26%20ML-Batch%202024--28-00d4ff?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117)
+![Live App](https://img.shields.io/badge/LIVE%20STREAMLIT%20APP-Deployed-00cc88?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117)
+![NEXUS AI](https://img.shields.io/badge/NEXUS%20AI-13%20Modules-7c3aed?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
 
 </div>
-..........
-..........
+
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+## 📊 ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-0915&bg_color=0d1117&color=00d4ff&line=0077ff&point=00ffcc&area=true&area_color=0d2040&hide_border=true&custom_title=Contribution%20Graph&title_color=00d4ff&radius=6" width="97%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="48%"/>
+
+</div>
+
+[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ayush-0915/Ayush-0915/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub>Auto-generated daily via GitHub Actions</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d1f3c,100:000000&height=120&section=footer" width="100%"/>
+
+*Always building. Always shipping. NEXUS never sleeps.*
+
+</div>
