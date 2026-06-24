@@ -29,7 +29,7 @@ class AIMLEngineer:
             "education": "B.Tech (AI & ML) @ SAGE University, Indore",
             "batch": "2024 - 2028",
             "seeking": "Internships in ML · Data Science · AI · Analytics",
-            "certifications": ["Azure AZ-900", "OCI AI Foundations", "GCP GenAI"]
+            "certifications": ["Azure AZ-900", "OCI 2025 AI Foundations Associate", "GCP GenAI", "AWS ML Foundations"]
         }
 
         self.flagship_project = {
@@ -176,8 +176,9 @@ class AIMLEngineer:
 <div align="center">
 
 [![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com)
-[![OCI AI](https://img.shields.io/badge/OCI%20AI%20FOUNDATIONS-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com)
+[![OCI AI](https://img.shields.io/badge/OCI%202025%20AI%20FOUNDATIONS%20ASSOCIATE-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com)
 [![GCP GenAI](https://img.shields.io/badge/GCP%20GENERATIVE%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com)
+[![AWS ML](https://img.shields.io/badge/AWS%20ML%20FOUNDATIONS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com)
 
 <br/><br/>
 
