@@ -203,11 +203,18 @@ class AIMLEngineer:
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
+
 ## 📊 ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush-0915&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=0077ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 <br/><br/>
 
@@ -215,12 +222,9 @@ class AIMLEngineer:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="48%"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ayush-0915&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="97%"/>
 
-[![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+</div>
 
 ## 🐍 CONTRIBUTION SNAKE
 
