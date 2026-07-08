@@ -217,8 +217,7 @@ class AIMLEngineer:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="48%"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ayush-0915&theme=tokyonight)](https://git.io/streak-stats)
-</div>
+
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
