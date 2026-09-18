@@ -29,15 +29,27 @@ class AIMLEngineer:
             "education": "B.Tech (AI & ML) @ SAGE University, Indore",
             "batch": "2024 - 2028",
             "seeking": "Internships in ML · Data Science · AI · Analytics",
-            "certifications": ["Azure AZ-900", "OCI 2025 AI Foundations Associate", "GCP GenAI", "AWS ML Foundations"]
+            "certifications": [
+                "Azure AZ-900",
+                "OCI 2025 AI Foundations Associate",
+                "GCP GenAI",
+                "AWS ML Foundations"
+            ]
         }
 
         self.flagship_project = {
             "name": "NEXUS AI",
             "type": "Local-first JARVIS-style Personal AI OS",
             "modules": 13,
-            "stack": ["Ollama", "faster-whisper", "Piper", "ChromaDB",
-                      "Gemini API", "FastAPI", "Python"],
+            "stack": [
+                "Ollama",
+                "faster-whisper",
+                "Piper",
+                "ChromaDB",
+                "Gemini API",
+                "FastAPI",
+                "Python"
+            ],
             "aesthetic": "Cyberpunk · Mission Control"
         }
 
@@ -171,10 +183,6 @@ class AIMLEngineer:
 ## 📊 ANALYTICS
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-0915&bg_color=0d1117&color=00d4ff&line=0077ff&point=00ffcc&area=true&area_color=0d2040&hide_border=true&custom_title=Contribution%20Graph&title_color=00d4ff&radius=6" width="97%"/>
 
