@@ -37,28 +37,7 @@ class AIMLEngineer:
             ]
         }
 
-        self.flagship_project = {
-            "name": "NEXUS AI",
-            "type": "Local-first JARVIS-style Personal AI OS",
-            "modules": 13,
-            "stack": [
-                "Ollama",
-                "faster-whisper",
-                "Piper",
-                "ChromaDB",
-                "Gemini API",
-                "FastAPI",
-                "Python"
-            ],
-            "aesthetic": "Cyberpunk · Mission Control"
-        }
-
-        self.current_focus = [
-            "NEXUS AI — voice, memory, vision & system automation",
-            "Local LLM routing with Ollama + multi-model orchestration",
-            "ML pipelines from training to Streamlit deployment",
-            "Data analytics & GenAI integration"
-        ]
+       
 
     def motto(self):
         return "Build fast. Ship real. Keep it local."
@@ -184,11 +163,22 @@ class AIMLEngineer:
 
 <div align="center">
 
+<!-- Current Streak -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border_radius=8&hide_longest_streak=true" width="75%"/>
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-0915&bg_color=0d1117&color=00d4ff&line=0077ff&point=00ffcc&area=true&area_color=0d2040&hide_border=true&custom_title=Contribution%20Graph&title_color=00d4ff&radius=6" width="97%"/>
 
 <br/><br/>
 
+<!-- Top Languages -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="48%"/>
 
 </div>
@@ -218,6 +208,7 @@ class AIMLEngineer:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d1f3c,100:000000&height=120&section=footer" width="100%"/>
 
 *Always building. Always shipping. NEXUS never sleeps.*
+
 By Ayushhhhh
 
 </div>
