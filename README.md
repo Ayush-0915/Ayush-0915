@@ -38,9 +38,6 @@ class AIMLEngineer:
         }
 
        
-
-    def motto(self):
-        return "Build fast. Ship real. Keep it local."
 ```
 
 <br clear="right"/>
@@ -163,9 +160,9 @@ class AIMLEngineer:
 
 <div align="center">
 
-<!-- Current Streak -->
+<!-- Current Streak + Longest Streak -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border_radius=8&hide_longest_streak=true" width="75%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0915&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=0077ff&fire=00ffcc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&border_radius=8" width="75%"/>
 
 <br/><br/>
 
