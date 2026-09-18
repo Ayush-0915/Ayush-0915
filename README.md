@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-singh-0915ap)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-0915)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-singh-0915ap)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ayush-0915)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
@@ -60,103 +60,68 @@ class AIMLEngineer:
 
 <div align="center">
 
-**`[ Languages ]`**
-<br/>
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=00d4ff)
+**`[ Languages ]`** <br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=00d4ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql\&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=00d4ff)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge\&logo=latex\&logoColor=00d4ff)
 
 <br/>
 
-**`[ Machine Learning ]`**
-<br/>
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=0077ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=0077ff)
-![Classification](https://img.shields.io/badge/Classification-0d1117?style=for-the-badge&logoColor=0077ff)
-![Regression](https://img.shields.io/badge/Regression-0d1117?style=for-the-badge&logoColor=0077ff)
-![Clustering](https://img.shields.io/badge/Clustering-0d1117?style=for-the-badge&logoColor=0077ff)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-0d1117?style=for-the-badge&logoColor=0077ff)
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-0d1117?style=for-the-badge&logoColor=0077ff)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0d1117?style=for-the-badge&logoColor=0077ff)
-![KNN](https://img.shields.io/badge/KNN-0d1117?style=for-the-badge&logoColor=0077ff)
-![K--Means](https://img.shields.io/badge/K--Means-0d1117?style=for-the-badge&logoColor=0077ff)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=for-the-badge&logoColor=0077ff)
-![Cross Validation](https://img.shields.io/badge/Cross--Validation-0d1117?style=for-the-badge&logoColor=0077ff)
+**`[ Machine Learning ]`** <br/>
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge\&logo=scikitlearn\&logoColor=0077ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge\&logo=huggingface\&logoColor=0077ff)
+![Classification](https://img.shields.io/badge/Classification-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Regression](https://img.shields.io/badge/Regression-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Clustering](https://img.shields.io/badge/Clustering-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0d1117?style=for-the-badge\&logoColor=0077ff)
+![KNN](https://img.shields.io/badge/KNN-0d1117?style=for-the-badge\&logoColor=0077ff)
+![K--Means](https://img.shields.io/badge/K--Means-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0d1117?style=for-the-badge\&logoColor=0077ff)
+![Cross Validation](https://img.shields.io/badge/Cross--Validation-0d1117?style=for-the-badge\&logoColor=0077ff)
 
 <br/>
 
-**`[ Libraries & Frameworks ]`**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=38bdf8)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=38bdf8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=38bdf8)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logoColor=38bdf8)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=38bdf8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
+**`[ Libraries & Frameworks ]`** <br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge\&logo=pandas\&logoColor=38bdf8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge\&logo=numpy\&logoColor=38bdf8)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge\&logoColor=38bdf8)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge\&logoColor=38bdf8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge\&logo=streamlit\&logoColor=38bdf8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge\&logo=fastapi\&logoColor=38bdf8)
 
 <br/>
 
-**`[ AI & GenAI ]`**
-<br/>
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0d1117?style=for-the-badge&logo=google&logoColor=00ffcc)
-![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ffcc)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logoColor=00ffcc)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0d1117?style=for-the-badge&logoColor=00ffcc)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0d1117?style=for-the-badge&logoColor=00ffcc)
-![Voice AI](https://img.shields.io/badge/Voice%20AI-0d1117?style=for-the-badge&logoColor=00ffcc)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logoColor=00ffcc)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logoColor=00ffcc)
-![faster--whisper](https://img.shields.io/badge/faster--whisper-0d1117?style=for-the-badge&logoColor=00ffcc)
-![Piper TTS](https://img.shields.io/badge/Piper%20TTS-0d1117?style=for-the-badge&logoColor=00ffcc)
+**`[ Databases ]`** <br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge\&logo=mysql\&logoColor=93c5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge\&logo=mongodb\&logoColor=93c5fd)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge\&logo=supabase\&logoColor=93c5fd)
 
 <br/>
 
-**`[ Data Analytics & BI ]`**
-<br/>
-![EDA](https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&logoColor=a78bfa)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0d1117?style=for-the-badge&logoColor=a78bfa)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-0d1117?style=for-the-badge&logoColor=a78bfa)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=a78bfa)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=a78bfa)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=a78bfa)
+**`[ Cloud Platforms ]`** <br/>
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge\&logo=microsoftazure\&logoColor=fbbf24)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud%20OCI-0d1117?style=for-the-badge\&logo=oracle\&logoColor=fbbf24)
+![GCP](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge\&logo=googlecloud\&logoColor=fbbf24)
 
 <br/>
 
-**`[ Databases ]`**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=93c5fd)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=93c5fd)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=93c5fd)
+**`[ Developer Tools ]`** <br/>
 
-<br/>
-
-**`[ Cloud Platforms ]`**
-<br/>
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=fbbf24)
-![OCI](https://img.shields.io/badge/Oracle%20Cloud%20OCI-0d1117?style=for-the-badge&logo=oracle&logoColor=fbbf24)
-![GCP](https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
-
-<br/>
-
-**`[ Developer Tools ]`**
-<br/>
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=6ee7b7)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6ee7b7)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=6ee7b7)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=6ee7b7)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=6ee7b7)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6ee7b7)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logoColor=6ee7b7)
-
-<br/>
-
-**`[ Engineering Skills ]`**
-<br/>
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0d1117?style=for-the-badge&logoColor=f9a8d4)
-![Async Programming](https://img.shields.io/badge/Async%20Programming-0d1117?style=for-the-badge&logoColor=f9a8d4)
-![Context Management](https://img.shields.io/badge/Context%20Management-0d1117?style=for-the-badge&logoColor=f9a8d4)
-![Repository Analysis](https://img.shields.io/badge/Repository%20Analysis-0d1117?style=for-the-badge&logoColor=f9a8d4)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=6ee7b7)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=6ee7b7)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=6ee7b7)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge\&logo=jupyter\&logoColor=6ee7b7)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge\&logo=googlecolab\&logoColor=6ee7b7)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=nodedotjs\&logoColor=6ee7b7)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge\&logoColor=6ee7b7)
 
 </div>
 
@@ -164,7 +129,7 @@ class AIMLEngineer:
 
 ## 🚀 FEATURED PROJECTS
 
-```
+```text
 🧠 NEXUS AI  ·  Local-first Personal AI Operating System
    Stack : Ollama · faster-whisper · Piper · ChromaDB · Gemini API · FastAPI
    13 modules — voice control, memory engine, vision, file automation,
@@ -188,16 +153,16 @@ class AIMLEngineer:
 
 <div align="center">
 
-[![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/b488753e-db9f-48a1-a14d-51566a11f820/public_url)
-[![OCI AI](https://img.shields.io/badge/OCI%202025%20AI%20FOUNDATIONS%20ASSOCIATE-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.credly.com)
-[![GCP GenAI](https://img.shields.io/badge/GCP%20GENERATIVE%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com)
-[![AWS ML](https://img.shields.io/badge/AWS%20ML%20FOUNDATIONS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/4744bc08-8705-4d76-bb49-d470d753feac/public_url)
+[![AZ-900](https://img.shields.io/badge/AZURE%20FUNDAMENTALS%20AZ--900-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://www.credly.com/badges/b488753e-db9f-48a1-a14d-51566a11f820/public_url)
+[![OCI AI](https://img.shields.io/badge/OCI%202025%20AI%20FOUNDATIONS%20ASSOCIATE-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)](https://www.credly.com)
+[![GCP GenAI](https://img.shields.io/badge/GCP%20GENERATIVE%20AI-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://www.credly.com)
+[![AWS ML](https://img.shields.io/badge/AWS%20ML%20FOUNDATIONS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://www.credly.com/badges/4744bc08-8705-4d76-bb49-d470d753feac/public_url)
 
 <br/><br/>
 
-![Student](https://img.shields.io/badge/B.Tech%20AI%20%26%20ML-Batch%202024--28-00d4ff?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0d1117)
-![Live App](https://img.shields.io/badge/LIVE%20STREAMLIT%20APP-Deployed-00cc88?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117)
-![NEXUS AI](https://img.shields.io/badge/NEXUS%20AI-13%20Modules-7c3aed?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Student](https://img.shields.io/badge/B.Tech%20AI%20%26%20ML-Batch%202024--28-00d4ff?style=for-the-badge\&logo=google-scholar\&logoColor=white\&labelColor=0d1117)
+![Live App](https://img.shields.io/badge/LIVE%20STREAMLIT%20APP-Deployed-00cc88?style=for-the-badge\&logo=streamlit\&logoColor=white\&labelColor=0d1117)
+![NEXUS AI](https://img.shields.io/badge/NEXUS%20AI-13%20Modules-7c3aed?style=for-the-badge\&logo=openai\&logoColor=white\&labelColor=0d1117)
 
 </div>
 
@@ -218,6 +183,7 @@ class AIMLEngineer:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-0915&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0915&theme=tokyonight" width="48%"/>
 
+</div>
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -245,5 +211,5 @@ class AIMLEngineer:
 
 *Always building. Always shipping. NEXUS never sleeps.*
 By Ayushhhhh
-</div>
 
+</div>
