@@ -123,16 +123,6 @@ class AIMLEngineer:
    13 modules — voice control, memory engine, vision, file automation,
    multi-model LLM routing, system automation, and more.
    Status : Active Development  |  Aesthetic : Cyberpunk Mission Control
-
-💳 CreditWise  ·  Loan Approval ML App
-   Stack : Python · Scikit-learn · Streamlit Cloud
-   End-to-end ML pipeline with live deployment on Streamlit Cloud.
-   Status : Live ✅
-
-🌲 Car Evaluation Classifier
-   Stack : Python · Scikit-learn · Decision Tree
-   Multi-class classifier on the UCI Car Evaluation dataset.
-   Status : Complete ✅
 ```
 
 [![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
